@@ -1,0 +1,7 @@
+To connect using the mongo shell:
+
+mongo ds056288.mongolab.com:56288/SmartBin -u admin -p admin
+
+To connect using a driver via the standard MongoDB URI (what's this?):
+
+mongodb://admin:admin@ds056288.mongolab.com:56288/SmartBin
